@@ -5,5 +5,5 @@ Skema : Pemrograman Software Komputer
 
 ## Data Diri
 
-Aldi Wirawan
-1831710012
+Moh Salman
+1831710172
